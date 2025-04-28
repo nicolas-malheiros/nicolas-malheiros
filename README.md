@@ -10,8 +10,14 @@
 
 #
 
-<p align="center">Estudante de Engenharia de SoftWare na Universidade da Região de Joinville(Univille). Atualmente trabalho com CodeIgniter JavaScript.
-Estou constantemente atualizando meus conhecimentos e buscando novos desafios na área de tecnologia. Tenho paixão por aprender e aplicar esses conhecimentos para criar soluções inovadoras.
+<p align="center">Olá! 👋
+Meu nome é Nicolas Daniel Malheiros, tenho 19 anos e sou apaixonado por tecnologia. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na UDESC e sou técnico em Desenvolvimento de Sistemas pelo SENAI. No momento, trabalho como estagiário de Desenvolvedor Full Stack, onde estou aprimorando minhas habilidades em CodeIgniter (PHP) e JavaScript.
+
+Tenho experiência em diversas tecnologias, como Node-red, SQL (MySQL), HTML, CSS, e, atualmente, estou focado em aprimorar minhas competências em PHP (CodeIgniter) e JavaScript, além de estar sempre aberto a aprender novas linguagens e ferramentas.
+
+Meu objetivo é criar soluções eficientes, aprender continuamente e contribuir para projetos inovadores. Aqui no GitHub, compartilho meus projetos e aprendizados, buscando sempre melhorar e colaborar com a comunidade de desenvolvedores.
+
+Se você está interessado em colaborar ou trocar ideias sobre projetos em PHP, JavaScript, CodeIgniter, ou outras tecnologias, fique à vontade para explorar meus repositórios e entrar em contato! 🚀
   
 #
 
@@ -19,9 +25,9 @@ Estou constantemente atualizando meus conhecimentos e buscando novos desafios na
 
 <h3 align="left">Connect with me!</h3>
 
-[![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=00ffff&color:FFF)](mailto:@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=00ffff&color:FFF)]()
-[![Instagram](https://img.shields.io/badge/-Instagram-000?style=for-the-badge&logo=instagram&logoColor=00ffff&color:FFF)]()
+[![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=00ffff&color:FFF)](nicolasdanielmalheiros:@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=00ffff&color:FFF)](https://www.linkedin.com/in/nicolas-malheiros-90b191249/)
+[![Instagram](https://img.shields.io/badge/-Instagram-000?style=for-the-badge&logo=instagram&logoColor=00ffff&color:FFF)](https://www.instagram.com/nicolasmalheiros_?igsh=eXRlbnM0MXJqOGNt&utm_source=qr)
 
 
 <h3 align="left">My Stack ~</h3>
