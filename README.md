@@ -22,7 +22,7 @@ Meu objetivo é criar soluções eficientes, aprender continuamente e contribuir
 Se você está interessado em colaborar ou trocar ideias sobre projetos em PHP, JavaScript, CodeIgniter, ou outras tecnologias, fique à vontade para explorar meus repositórios e entrar em contato! 🚀
   
 #
-
+/p> 
 <img align="right" alt="" height="190px" src="./src/study.gif">
 
 <h3 align="left">Connect with me!</h3>
