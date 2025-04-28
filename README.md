@@ -10,12 +10,15 @@
 
 #
 
-<p align="center">Olá! 👋
+<p>Olá! 👋
 Meu nome é Nicolas Daniel Malheiros, tenho 19 anos e sou apaixonado por tecnologia.
 Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na UDESC e sou técnico em Desenvolvimento de Sistemas pelo SENAI.
 No momento, trabalho como estagiário de Desenvolvedor Full Stack, onde estou aprimorando minhas habilidades em CodeIgniter (PHP) e JavaScript.
+  
 Tenho experiência em diversas tecnologias, como Node-red, SQL (MySQL), HTML, CSS, e, atualmente, estou focado em aprimorar minhas competências em PHP (CodeIgniter) e JavaScript, além de estar sempre aberto a aprender novas linguagens e ferramentas.
+
 Meu objetivo é criar soluções eficientes, aprender continuamente e contribuir para projetos inovadores. Aqui no GitHub, compartilho meus projetos e aprendizados, buscando sempre melhorar e colaborar com a comunidade de desenvolvedores.
+
 Se você está interessado em colaborar ou trocar ideias sobre projetos em PHP, JavaScript, CodeIgniter, ou outras tecnologias, fique à vontade para explorar meus repositórios e entrar em contato! 🚀
   
 #
