@@ -53,16 +53,6 @@ Se você está interessado em colaborar ou trocar ideias sobre projetos em PHP, 
 
 #
 
-<div style="text-align: center;" align="center";>
-
-  <a href="https://github.com/nicolas-malheiros/github-readme-stats">
-    <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=nicolas-malheiros&line_height=10&card_width=290&layout=compact&hide_title=false&count_private=true&langs_count=4&show_icons=true&title_color=00ffff&hide=html,scss,less&bg_color=000&text_color=8B8B8B&border_radius=3&border_color=00008b&count_private=true" alt="Most Used Languages">
-  </a>
-</div>
-
-
-#
-
 <picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nicolas-malheiros/nicolas-malheiros/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nicolas-malheiros/nicolas-malheiros/output/github-contribution-grid-snake-dark.svg">
