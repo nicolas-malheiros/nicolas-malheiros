@@ -11,7 +11,7 @@
 #
 
 <p>Olá! 👋
-Meu nome é Nicolas Daniel Malheiros, tenho 19 anos e sou apaixonado por tecnologia.
+Meu nome é Nicolas Daniel Malheiros, tenho 20 anos e sou apaixonado por tecnologia.
 Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na UDESC e sou técnico em Desenvolvimento de Sistemas pelo SENAI.
 No momento, trabalho como estagiário de Desenvolvedor Full Stack, onde estou aprimorando minhas habilidades em CodeIgniter (PHP) e JavaScript.
   
