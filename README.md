@@ -10,15 +10,13 @@
 
 Olá! 👋
 
-Sou o **Nicolas**, desenvolvedor full stack júnior de Joinville/SC. Desenvolvo e mantenho sistemas internos de ponta a ponta, do banco de dados à interface, com **PHP, CodeIgniter 4 (MVC), PostgreSQL e JavaScript**, e uso **Docker** para rodar os ambientes.
+Sou o Nicolas, desenvolvedor full stack júnior de Joinville/SC. Tenho experiência no desenvolvimento e manutenção de sistemas internos de ponta a ponta, atuando desde o banco de dados até a interface. Meu foco principal tem sido em PHP, CodeIgniter 4 (MVC), PostgreSQL e JavaScript, além de possuir familiaridade com Docker para conteinerização.
 
-No dia a dia, crio funcionalidades, corrijo e otimizo sistemas, desenvolvo integrações com ERPs e APIs (incluindo IA), construo relatórios e dashboards e automatizo fluxos e processos com n8n.
+No dia a dia, crio novas funcionalidades, corrijo e otimizo sistemas, e desenvolvo integrações com ERPs e APIs (incluindo IA). Também tenho forte atuação na automação de fluxos e processos utilizando ferramentas como n8n e Power Automate, além de construir relatórios e dashboards que apoiam a tomada de decisão.
 
-Sou técnico em Desenvolvimento de Sistemas pelo SENAI e curso Análise e Desenvolvimento de Sistemas na UDESC. Gosto de entender como a tecnologia funciona por baixo dos panos, de testar e revisar o que entrego e de aprender com quem tem mais experiência.
+Sou técnico em Desenvolvimento de Sistemas pelo SENAI e atualmente curso Análise e Desenvolvimento de Sistemas na UDESC. Aprendo rápido, gosto de entender como a tecnologia funciona por baixo dos panos e sou detalhista na hora de testar e revisar o que entrego.
 
-Fora do trabalho, mexo com infraestrutura e Linux: monto meu próprio servidor de rastreamento GPS com Traccar e estudo novas ferramentas por conta própria. Por aqui vou publicando meus projetos pessoais e estudos.
-
-Se quiser trocar ideia sobre PHP, banco de dados, integrações ou automação, fique à vontade para entrar em contato! 🚀
+Sou movido por novos desafios e estou sempre aberto a experiências que me permitam explorar diferentes tecnologias, conhecer novas culturas organizacionais e expandir meu stack. Valorizo times colaborativos, onde eu possa contribuir de forma prática, trocar conhecimento e evoluir junto com a equipe.
 
 #
 
